@@ -1,6 +1,6 @@
 # 🖥️ TrinixCrypto Portfolio Website
 
-Welcome to the repository for my **personal portfolio website**! 🚀 This site showcases my skills, projects, and experience in **cybersecurity development** and related fields.
+Welcome to the repository for my old **personal portfolio website**! 🚀 This site showcases my skills, projects, and experience in **cybersecurity development** and related fields.
 
 ## 🌐 Live Demo
 🔗 [Visit My Portfolio](https://trinixcrypto.tech)
